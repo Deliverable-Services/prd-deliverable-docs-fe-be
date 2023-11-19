@@ -2841,10 +2841,10 @@
   dependencies:
     "@types/ms" "*"
 
-"@types/diff@^5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@types/diff/-/diff-5.0.4.tgz#ba774c225ee68ce13a090fec16cf34b97a78537b"
-  integrity sha512-d7489/WO4B65k0SIqxXtviR9+MrPDipWQF6w+5D7YPrqgu6Qb87JsTdWQaNZo7itcdbViQSev3Jaz7dtKO0+Dg==
+"@types/diff@^5.0.8":
+  version "5.0.8"
+  resolved "https://registry.yarnpkg.com/@types/diff/-/diff-5.0.8.tgz#28dc501cc3e7c62d4c5d096afe20755170acf276"
+  integrity sha512-kR0gRf0wMwpxQq6ME5s+tWk9zVCfJUl98eRkD05HWWRbhPB/eu4V1IbyZAsvzC1Gn4znBJ0HN01M4DGXdBEV8Q==
 
 "@types/emoji-regex@^9.2.0":
   version "9.2.0"
